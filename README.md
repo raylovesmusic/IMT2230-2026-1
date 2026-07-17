@@ -1,3 +1,3 @@
 # IMT2230-2026-1
-### Repositorio con la resolución de la T2 de Álgebra Lineal Avanzada y Modelamiento.
+### Repositorio con los proyectos y tareas del curso Álgebra Lineal Avanzada y Modelamiento.
 Rayén Godoy Olivares
